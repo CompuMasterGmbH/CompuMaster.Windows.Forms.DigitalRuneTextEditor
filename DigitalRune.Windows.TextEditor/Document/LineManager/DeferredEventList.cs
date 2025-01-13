@@ -2,7 +2,7 @@ using System.Collections.Generic;
 using System.Collections.ObjectModel;
 
 
-namespace CompuMaster.Windows.DigitalRuneTextEditor.Document
+namespace CompuMaster.Windows.Forms.DigitalRuneTextEditor.Document
 {
 	/// <summary>
 	/// A list of events that are fired after the line manager has finished working.

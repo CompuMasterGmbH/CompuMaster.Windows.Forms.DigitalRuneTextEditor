@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 
 
-namespace CompuMaster.Windows.DigitalRuneTextEditor.Highlighting
+namespace CompuMaster.Windows.Forms.DigitalRuneTextEditor.Highlighting
 {
   /// <summary>
   /// A stack of Span instances. 

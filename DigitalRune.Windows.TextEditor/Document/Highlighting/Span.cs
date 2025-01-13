@@ -2,7 +2,7 @@
 using System.Xml;
 
 
-namespace CompuMaster.Windows.DigitalRuneTextEditor.Highlighting
+namespace CompuMaster.Windows.Forms.DigitalRuneTextEditor.Highlighting
 {
   /// <summary>
   /// Defines a span (for example: strings, line comments, block comments, etc.).

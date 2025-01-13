@@ -32,7 +32,7 @@ namespace CompuMaster.Windows.SampleEditor
       System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(SampleEditor));
       this.statusStrip = new System.Windows.Forms.StatusStrip();
       this.toolStripContainer1 = new System.Windows.Forms.ToolStripContainer();
-      this.textEditorControl = new CompuMaster.Windows.DigitalRuneTextEditor.TextEditorControl();
+      this.textEditorControl = new CompuMaster.Windows.Forms.DigitalRuneTextEditor.TextEditorControl();
       this.menuStrip = new System.Windows.Forms.MenuStrip();
       this.fileToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
       this.newToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
@@ -132,9 +132,9 @@ namespace CompuMaster.Windows.SampleEditor
       this.textEditorControl.Size = new System.Drawing.Size(784, 493);
       this.textEditorControl.TabIndent = 2;
       this.textEditorControl.TabIndex = 0;
-      this.textEditorControl.ToolTipRequest += new System.EventHandler<CompuMaster.Windows.DigitalRuneTextEditor.ToolTipRequestEventArgs>(this.ToolTipRequest);
-      this.textEditorControl.InsightRequest += new System.EventHandler<CompuMaster.Windows.DigitalRuneTextEditor.Insight.InsightEventArgs>(this.InsightRequest);
-      this.textEditorControl.CompletionRequest += new System.EventHandler<CompuMaster.Windows.DigitalRuneTextEditor.Completion.CompletionEventArgs>(this.CompletionRequest);
+      this.textEditorControl.ToolTipRequest += new System.EventHandler<CompuMaster.Windows.Forms.DigitalRuneTextEditor.ToolTipRequestEventArgs>(this.ToolTipRequest);
+      this.textEditorControl.InsightRequest += new System.EventHandler<CompuMaster.Windows.Forms.DigitalRuneTextEditor.Insight.InsightEventArgs>(this.InsightRequest);
+      this.textEditorControl.CompletionRequest += new System.EventHandler<CompuMaster.Windows.Forms.DigitalRuneTextEditor.Completion.CompletionEventArgs>(this.CompletionRequest);
       // 
       // menuStrip
       // 
@@ -638,7 +638,7 @@ namespace CompuMaster.Windows.SampleEditor
 
     private System.Windows.Forms.StatusStrip statusStrip;
     private System.Windows.Forms.ToolStripContainer toolStripContainer1;
-    private CompuMaster.Windows.DigitalRuneTextEditor.TextEditorControl textEditorControl;
+    private CompuMaster.Windows.Forms.DigitalRuneTextEditor.TextEditorControl textEditorControl;
     private System.Windows.Forms.MenuStrip menuStrip;
     private System.Windows.Forms.ToolStripMenuItem fileToolStripMenuItem;
     private System.Windows.Forms.ToolStripMenuItem newToolStripMenuItem;

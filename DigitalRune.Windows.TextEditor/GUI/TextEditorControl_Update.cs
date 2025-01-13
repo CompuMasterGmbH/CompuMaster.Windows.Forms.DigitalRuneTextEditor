@@ -3,7 +3,7 @@ using System.ComponentModel;
 using System.Diagnostics;
 
 
-namespace CompuMaster.Windows.DigitalRuneTextEditor
+namespace CompuMaster.Windows.Forms.DigitalRuneTextEditor
 {
   partial class TextEditorControl
   {

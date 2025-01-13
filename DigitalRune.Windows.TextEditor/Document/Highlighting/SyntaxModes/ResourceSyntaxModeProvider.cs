@@ -4,7 +4,7 @@ using System.Reflection;
 using System.Xml;
 
 
-namespace CompuMaster.Windows.DigitalRuneTextEditor.Highlighting
+namespace CompuMaster.Windows.Forms.DigitalRuneTextEditor.Highlighting
 {
   /// <summary>
   /// Provides that syntax highlighting defintions which are stored as resources

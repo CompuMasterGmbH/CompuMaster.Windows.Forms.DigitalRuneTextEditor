@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace CompuMaster.Windows.DigitalRuneTextEditor.Selection
+namespace CompuMaster.Windows.Forms.DigitalRuneTextEditor.Selection
 {
   /// <summary>
   /// Defines a column range.

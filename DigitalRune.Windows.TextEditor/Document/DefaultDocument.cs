@@ -1,17 +1,17 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Diagnostics;
-using CompuMaster.Windows.DigitalRuneTextEditor.Undo;
-using CompuMaster.Windows.DigitalRuneTextEditor.Bookmarks;
-using CompuMaster.Windows.DigitalRuneTextEditor.Folding;
-using CompuMaster.Windows.DigitalRuneTextEditor.Formatting;
-using CompuMaster.Windows.DigitalRuneTextEditor.Highlighting;
-using CompuMaster.Windows.DigitalRuneTextEditor.Markers;
-using CompuMaster.Windows.DigitalRuneTextEditor.TextBuffer;
-using CompuMaster.Windows.DigitalRuneTextEditor.Properties;
+using CompuMaster.Windows.Forms.DigitalRuneTextEditor.Undo;
+using CompuMaster.Windows.Forms.DigitalRuneTextEditor.Bookmarks;
+using CompuMaster.Windows.Forms.DigitalRuneTextEditor.Folding;
+using CompuMaster.Windows.Forms.DigitalRuneTextEditor.Formatting;
+using CompuMaster.Windows.Forms.DigitalRuneTextEditor.Highlighting;
+using CompuMaster.Windows.Forms.DigitalRuneTextEditor.Markers;
+using CompuMaster.Windows.Forms.DigitalRuneTextEditor.TextBuffer;
+using CompuMaster.Windows.Forms.DigitalRuneTextEditor.Properties;
 
 
-namespace CompuMaster.Windows.DigitalRuneTextEditor.Document
+namespace CompuMaster.Windows.Forms.DigitalRuneTextEditor.Document
 {
   /// <summary>
   /// The default <see cref="IDocument"/> implementation.
@@ -277,7 +277,7 @@ namespace CompuMaster.Windows.DigitalRuneTextEditor.Document
     /// </summary>
     /// <typeparam name="T">A type of segment.</typeparam>
     /// <param name="list">The list.</param>
-    /// <param name="e">The <see cref="CompuMaster.Windows.DigitalRuneTextEditor.Document.DocumentEventArgs"/> instance containing the event data.</param>
+    /// <param name="e">The <see cref="CompuMaster.Windows.Forms.DigitalRuneTextEditor.Document.DocumentEventArgs"/> instance containing the event data.</param>
     public void UpdateSegmentListOnDocumentChange<T>(List<T> list, DocumentEventArgs e) where T : ISegment
     {
       int removedCharacters = e.Length > 0 ? e.Length : 0;
@@ -637,7 +637,7 @@ namespace CompuMaster.Windows.DigitalRuneTextEditor.Document
     /// <summary>
     /// Raises the <see cref="DocumentAboutToBeChanged"/> event.
     /// </summary>
-    /// <param name="e">The <see cref="CompuMaster.Windows.DigitalRuneTextEditor.Document.DocumentEventArgs"/> instance containing the event data.</param>
+    /// <param name="e">The <see cref="CompuMaster.Windows.Forms.DigitalRuneTextEditor.Document.DocumentEventArgs"/> instance containing the event data.</param>
     protected void OnDocumentAboutToBeChanged(DocumentEventArgs e)
     {
       if (DocumentAboutToBeChanged != null)
@@ -648,7 +648,7 @@ namespace CompuMaster.Windows.DigitalRuneTextEditor.Document
     /// <summary>
     /// Raises the <see cref="DocumentChanged"/> event.
     /// </summary>
-    /// <param name="e">The <see cref="CompuMaster.Windows.DigitalRuneTextEditor.Document.DocumentEventArgs"/> instance containing the event data.</param>
+    /// <param name="e">The <see cref="CompuMaster.Windows.Forms.DigitalRuneTextEditor.Document.DocumentEventArgs"/> instance containing the event data.</param>
     protected void OnDocumentChanged(DocumentEventArgs e)
     {
       if (DocumentChanged != null)

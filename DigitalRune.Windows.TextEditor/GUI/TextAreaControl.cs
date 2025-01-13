@@ -2,12 +2,12 @@
 using System.ComponentModel;
 using System.Drawing;
 using System.Windows.Forms;
-using CompuMaster.Windows.DigitalRuneTextEditor.Document;
-using CompuMaster.Windows.DigitalRuneTextEditor.Properties;
-using CompuMaster.Windows.DigitalRuneTextEditor.Utilities;
+using CompuMaster.Windows.Forms.DigitalRuneTextEditor.Document;
+using CompuMaster.Windows.Forms.DigitalRuneTextEditor.Properties;
+using CompuMaster.Windows.Forms.DigitalRuneTextEditor.Utilities;
 
 
-namespace CompuMaster.Windows.DigitalRuneTextEditor
+namespace CompuMaster.Windows.Forms.DigitalRuneTextEditor
 {
   /// <summary>
   /// Container control for text area, horizontal ruler, and scrollbars.

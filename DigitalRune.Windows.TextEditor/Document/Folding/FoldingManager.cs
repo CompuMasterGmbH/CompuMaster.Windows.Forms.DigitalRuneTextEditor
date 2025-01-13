@@ -1,10 +1,10 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Collections.ObjectModel;
-using CompuMaster.Windows.DigitalRuneTextEditor.Document;
+using CompuMaster.Windows.Forms.DigitalRuneTextEditor.Document;
 
 
-namespace CompuMaster.Windows.DigitalRuneTextEditor.Folding
+namespace CompuMaster.Windows.Forms.DigitalRuneTextEditor.Folding
 {
   /// <summary>
   /// Manages the folding (<see cref="Folds"/>) of a text buffer.

@@ -2,12 +2,12 @@
 using System.Collections.Generic;
 using System.Drawing;
 using System.Runtime.InteropServices;
-using CompuMaster.Windows.DigitalRuneTextEditor.Document;
-using CompuMaster.Windows.DigitalRuneTextEditor.Folding;
-using CompuMaster.Windows.DigitalRuneTextEditor.Properties;
+using CompuMaster.Windows.Forms.DigitalRuneTextEditor.Document;
+using CompuMaster.Windows.Forms.DigitalRuneTextEditor.Folding;
+using CompuMaster.Windows.Forms.DigitalRuneTextEditor.Properties;
 
 
-namespace CompuMaster.Windows.DigitalRuneTextEditor
+namespace CompuMaster.Windows.Forms.DigitalRuneTextEditor
 {
   /// <summary>
   /// In this enumeration are all caret modes listed.

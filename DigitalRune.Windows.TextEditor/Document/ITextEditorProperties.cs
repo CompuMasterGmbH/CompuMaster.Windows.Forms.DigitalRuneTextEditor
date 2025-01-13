@@ -1,9 +1,9 @@
 using System.Drawing;
 using System.Drawing.Text;
 using System.Text;
-using CompuMaster.Windows.DigitalRuneTextEditor.Highlighting;
+using CompuMaster.Windows.Forms.DigitalRuneTextEditor.Highlighting;
 
-namespace CompuMaster.Windows.DigitalRuneTextEditor.Properties
+namespace CompuMaster.Windows.Forms.DigitalRuneTextEditor.Properties
 {
   /// <summary>
   /// Describes the caret marker

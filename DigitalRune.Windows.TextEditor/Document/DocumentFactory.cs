@@ -1,12 +1,12 @@
 ﻿using System.Text;
-using CompuMaster.Windows.DigitalRuneTextEditor.Bookmarks;
-using CompuMaster.Windows.DigitalRuneTextEditor.Formatting;
-using CompuMaster.Windows.DigitalRuneTextEditor.Folding;
-using CompuMaster.Windows.DigitalRuneTextEditor.Markers;
-using CompuMaster.Windows.DigitalRuneTextEditor.TextBuffer;
+using CompuMaster.Windows.Forms.DigitalRuneTextEditor.Bookmarks;
+using CompuMaster.Windows.Forms.DigitalRuneTextEditor.Formatting;
+using CompuMaster.Windows.Forms.DigitalRuneTextEditor.Folding;
+using CompuMaster.Windows.Forms.DigitalRuneTextEditor.Markers;
+using CompuMaster.Windows.Forms.DigitalRuneTextEditor.TextBuffer;
 
 
-namespace CompuMaster.Windows.DigitalRuneTextEditor.Document
+namespace CompuMaster.Windows.Forms.DigitalRuneTextEditor.Document
 {
   /// <summary>
   /// This interface represents a container which holds a text sequence and

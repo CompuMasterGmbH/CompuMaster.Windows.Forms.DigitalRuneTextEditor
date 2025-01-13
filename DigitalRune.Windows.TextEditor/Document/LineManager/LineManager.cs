@@ -1,11 +1,11 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Diagnostics;
-using CompuMaster.Windows.DigitalRuneTextEditor.Folding;
-using CompuMaster.Windows.DigitalRuneTextEditor.Highlighting;
+using CompuMaster.Windows.Forms.DigitalRuneTextEditor.Folding;
+using CompuMaster.Windows.Forms.DigitalRuneTextEditor.Highlighting;
 
 
-namespace CompuMaster.Windows.DigitalRuneTextEditor.Document
+namespace CompuMaster.Windows.Forms.DigitalRuneTextEditor.Document
 {
 	internal sealed class LineManager
   {

@@ -1,8 +1,8 @@
 ﻿using System;
-using CompuMaster.Windows.DigitalRuneTextEditor.Document;
+using CompuMaster.Windows.Forms.DigitalRuneTextEditor.Document;
 
 
-namespace CompuMaster.Windows.DigitalRuneTextEditor.Folding
+namespace CompuMaster.Windows.Forms.DigitalRuneTextEditor.Folding
 {
   /// <summary>
   /// Describes a section of the text that can be collapsed (folded).

@@ -1,4 +1,4 @@
-namespace CompuMaster.Windows.DigitalRuneTextEditor.Actions
+namespace CompuMaster.Windows.Forms.DigitalRuneTextEditor.Actions
 {
   /// <summary>
   /// Shows the code completion window.

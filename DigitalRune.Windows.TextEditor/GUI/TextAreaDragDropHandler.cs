@@ -1,10 +1,10 @@
 ﻿using System;
 using System.Drawing;
 using System.Windows.Forms;
-using CompuMaster.Windows.DigitalRuneTextEditor.Document;
-using CompuMaster.Windows.DigitalRuneTextEditor.Selection;
+using CompuMaster.Windows.Forms.DigitalRuneTextEditor.Document;
+using CompuMaster.Windows.Forms.DigitalRuneTextEditor.Selection;
 
-namespace CompuMaster.Windows.DigitalRuneTextEditor
+namespace CompuMaster.Windows.Forms.DigitalRuneTextEditor
 {
   internal class TextAreaDragDropHandler
   {

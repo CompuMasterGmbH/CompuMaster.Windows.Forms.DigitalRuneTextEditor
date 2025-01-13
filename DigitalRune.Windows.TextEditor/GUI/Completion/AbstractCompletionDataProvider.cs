@@ -2,7 +2,7 @@ using System;
 using System.Windows.Forms;
 
 
-namespace CompuMaster.Windows.DigitalRuneTextEditor.Completion
+namespace CompuMaster.Windows.Forms.DigitalRuneTextEditor.Completion
 {
   /// <summary>
   /// Provides base functionality of an <see cref="ICompletionDataProvider"/>.

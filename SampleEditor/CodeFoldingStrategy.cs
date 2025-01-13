@@ -1,7 +1,7 @@
 using System.Collections.Generic;
-using CompuMaster.Windows.DigitalRuneTextEditor;
-using CompuMaster.Windows.DigitalRuneTextEditor.Document;
-using CompuMaster.Windows.DigitalRuneTextEditor.Folding;
+using CompuMaster.Windows.Forms.DigitalRuneTextEditor;
+using CompuMaster.Windows.Forms.DigitalRuneTextEditor.Document;
+using CompuMaster.Windows.Forms.DigitalRuneTextEditor.Folding;
 
 
 namespace CompuMaster.Windows.SampleEditor

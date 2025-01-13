@@ -1,4 +1,4 @@
-namespace CompuMaster.Windows.DigitalRuneTextEditor.Utilities
+namespace CompuMaster.Windows.Forms.DigitalRuneTextEditor.Utilities
 {
   internal sealed class RedBlackTreeNode<T>
   {

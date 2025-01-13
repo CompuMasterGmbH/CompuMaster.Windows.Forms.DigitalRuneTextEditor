@@ -2,12 +2,12 @@ using System;
 using System.Collections;
 using System.Diagnostics;
 using System.Text;
-using CompuMaster.Windows.DigitalRuneTextEditor.Actions;
-using CompuMaster.Windows.DigitalRuneTextEditor.Document;
-using CompuMaster.Windows.DigitalRuneTextEditor.Properties;
+using CompuMaster.Windows.Forms.DigitalRuneTextEditor.Actions;
+using CompuMaster.Windows.Forms.DigitalRuneTextEditor.Document;
+using CompuMaster.Windows.Forms.DigitalRuneTextEditor.Properties;
 
 
-namespace CompuMaster.Windows.DigitalRuneTextEditor.Formatting
+namespace CompuMaster.Windows.Forms.DigitalRuneTextEditor.Formatting
 {
   /// <summary>
   /// Formatting strategy for C#.

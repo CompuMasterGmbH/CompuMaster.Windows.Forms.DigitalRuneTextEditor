@@ -1,11 +1,11 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Collections.ObjectModel;
-using CompuMaster.Windows.DigitalRuneTextEditor.Document;
-using CompuMaster.Windows.DigitalRuneTextEditor.Utilities;
+using CompuMaster.Windows.Forms.DigitalRuneTextEditor.Document;
+using CompuMaster.Windows.Forms.DigitalRuneTextEditor.Utilities;
 
 
-namespace CompuMaster.Windows.DigitalRuneTextEditor.Bookmarks
+namespace CompuMaster.Windows.Forms.DigitalRuneTextEditor.Bookmarks
 {
   /// <summary>
   /// This class handles the bookmarks for a buffer.
@@ -282,7 +282,7 @@ namespace CompuMaster.Windows.DigitalRuneTextEditor.Bookmarks
     /// <summary>
     /// Raises the <see cref="Added"/> event.
     /// </summary>
-    /// <param name="e">The <see cref="CompuMaster.Windows.DigitalRuneTextEditor.Bookmarks.BookmarkEventArgs"/> instance containing the event data.</param>
+    /// <param name="e">The <see cref="CompuMaster.Windows.Forms.DigitalRuneTextEditor.Bookmarks.BookmarkEventArgs"/> instance containing the event data.</param>
     protected virtual void OnAdded(BookmarkEventArgs e)
     {
       if (Added != null)
@@ -293,7 +293,7 @@ namespace CompuMaster.Windows.DigitalRuneTextEditor.Bookmarks
     /// <summary>
     /// Raises the <see cref="Removed"/> event.
     /// </summary>
-    /// <param name="e">The <see cref="CompuMaster.Windows.DigitalRuneTextEditor.Bookmarks.BookmarkEventArgs"/> instance containing the event data.</param>
+    /// <param name="e">The <see cref="CompuMaster.Windows.Forms.DigitalRuneTextEditor.Bookmarks.BookmarkEventArgs"/> instance containing the event data.</param>
     protected virtual void OnRemoved(BookmarkEventArgs e)
     {
       if (Removed != null)

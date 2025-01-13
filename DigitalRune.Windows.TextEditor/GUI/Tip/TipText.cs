@@ -3,7 +3,7 @@ using System.Drawing;
 using System.Windows.Forms;
 
 
-namespace CompuMaster.Windows.DigitalRuneTextEditor
+namespace CompuMaster.Windows.Forms.DigitalRuneTextEditor
 {
   internal class TipText : TipSection
   {

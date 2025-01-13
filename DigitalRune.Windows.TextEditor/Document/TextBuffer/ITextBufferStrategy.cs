@@ -1,4 +1,4 @@
-﻿namespace CompuMaster.Windows.DigitalRuneTextEditor.TextBuffer
+﻿namespace CompuMaster.Windows.Forms.DigitalRuneTextEditor.TextBuffer
 {
 	/// <summary>
 	/// Describes a sequence of characters that can be edited. 	

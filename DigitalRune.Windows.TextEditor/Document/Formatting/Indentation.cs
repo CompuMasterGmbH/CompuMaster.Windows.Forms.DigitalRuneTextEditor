@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Text;
 
 
-namespace CompuMaster.Windows.DigitalRuneTextEditor.Formatting
+namespace CompuMaster.Windows.Forms.DigitalRuneTextEditor.Formatting
 {
   internal sealed class IndentationSettings
   {

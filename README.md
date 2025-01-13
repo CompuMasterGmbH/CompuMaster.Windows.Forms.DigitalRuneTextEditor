@@ -1,4 +1,4 @@
-# CompuMaster.Windows.DigitalRuneTextEditor 
+# CompuMaster.Windows.Forms.DigitalRuneTextEditor 
 
 * CompuMaster edition of DigitalRune .NET TextEditor Control
 * for Windows Forms applications

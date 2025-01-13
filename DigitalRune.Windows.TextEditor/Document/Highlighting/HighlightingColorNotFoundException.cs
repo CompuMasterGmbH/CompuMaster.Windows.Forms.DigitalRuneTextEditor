@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Runtime.Serialization;
 
-namespace CompuMaster.Windows.DigitalRuneTextEditor.Highlighting
+namespace CompuMaster.Windows.Forms.DigitalRuneTextEditor.Highlighting
 {
   /// <summary>
   /// Exception which occurs when a highlighting color is not found.

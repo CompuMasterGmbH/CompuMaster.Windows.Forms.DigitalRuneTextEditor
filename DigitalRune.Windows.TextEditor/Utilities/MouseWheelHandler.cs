@@ -2,7 +2,7 @@ using System;
 using System.Windows.Forms;
 
 
-namespace CompuMaster.Windows.DigitalRuneTextEditor.Utilities
+namespace CompuMaster.Windows.Forms.DigitalRuneTextEditor.Utilities
 {
 	/// <summary>
 	/// Accumulates mouse wheel deltas and reports the actual number of lines to scroll.

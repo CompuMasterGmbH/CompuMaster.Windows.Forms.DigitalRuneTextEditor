@@ -1,6 +1,6 @@
 using System;
 
-namespace CompuMaster.Windows.DigitalRuneTextEditor.Document
+namespace CompuMaster.Windows.Forms.DigitalRuneTextEditor.Document
 {
   /// <summary>
   /// A line/column position. (Text editor lines/columns are counting from zero.)

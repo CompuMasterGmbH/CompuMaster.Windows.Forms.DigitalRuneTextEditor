@@ -1,7 +1,7 @@
 ﻿using System.Windows.Forms;
 
 
-namespace CompuMaster.Windows.DigitalRuneTextEditor.Completion
+namespace CompuMaster.Windows.Forms.DigitalRuneTextEditor.Completion
 {
   /// <summary>
   /// Describes the action that shall be run with a key-press.

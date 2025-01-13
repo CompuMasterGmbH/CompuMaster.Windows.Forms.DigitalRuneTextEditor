@@ -1,10 +1,10 @@
 ﻿using System;
 using System.Drawing;
 using System.Windows.Forms;
-using CompuMaster.Windows.DigitalRuneTextEditor.Document;
+using CompuMaster.Windows.Forms.DigitalRuneTextEditor.Document;
 
 
-namespace CompuMaster.Windows.DigitalRuneTextEditor.Completion
+namespace CompuMaster.Windows.Forms.DigitalRuneTextEditor.Completion
 {
   /// <summary>
   /// Provides the base functionality of all completion windows.

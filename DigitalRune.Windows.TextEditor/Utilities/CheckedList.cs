@@ -2,7 +2,7 @@ using System;
 using System.Collections.Generic;
 using System.Threading;
 
-namespace CompuMaster.Windows.DigitalRuneTextEditor.Utilities
+namespace CompuMaster.Windows.Forms.DigitalRuneTextEditor.Utilities
 {
 	/// <summary>
 	/// A <see cref="IList{T}"/> that checks that it is only accessed on the thread that created it, 

@@ -2,10 +2,10 @@ using System;
 using System.Collections.Generic;
 using System.IO;
 using System.Text;
-using CompuMaster.Windows.DigitalRuneTextEditor.Document;
+using CompuMaster.Windows.Forms.DigitalRuneTextEditor.Document;
 
 
-namespace CompuMaster.Windows.DigitalRuneTextEditor.Formatting
+namespace CompuMaster.Windows.Forms.DigitalRuneTextEditor.Formatting
 {
   /// <summary>
   /// Interface used for the indentation class to access the document.

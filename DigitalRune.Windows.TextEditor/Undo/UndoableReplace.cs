@@ -1,8 +1,8 @@
 ﻿using System;
 using System.Diagnostics;
-using CompuMaster.Windows.DigitalRuneTextEditor.Document;
+using CompuMaster.Windows.Forms.DigitalRuneTextEditor.Document;
 
-namespace CompuMaster.Windows.DigitalRuneTextEditor.Undo
+namespace CompuMaster.Windows.Forms.DigitalRuneTextEditor.Undo
 {
   /// <summary>
   /// Implements an undoable replace operation for the <see cref="IDocument"/>.

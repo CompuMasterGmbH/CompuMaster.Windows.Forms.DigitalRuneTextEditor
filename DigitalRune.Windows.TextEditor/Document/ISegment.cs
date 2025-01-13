@@ -1,4 +1,4 @@
-﻿namespace CompuMaster.Windows.DigitalRuneTextEditor.Document
+﻿namespace CompuMaster.Windows.Forms.DigitalRuneTextEditor.Document
 {
   /// <summary>
   /// This interface is used to describe a segment (span) inside a text sequence.

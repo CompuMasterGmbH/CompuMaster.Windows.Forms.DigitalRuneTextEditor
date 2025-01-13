@@ -4,7 +4,7 @@ using System.Diagnostics;
 using System.Collections.Generic;
 
 
-namespace CompuMaster.Windows.DigitalRuneTextEditor.Utilities
+namespace CompuMaster.Windows.Forms.DigitalRuneTextEditor.Utilities
 {
   /// <summary>
   /// Description of RedBlackTree.

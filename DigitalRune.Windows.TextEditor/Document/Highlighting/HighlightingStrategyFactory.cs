@@ -1,4 +1,4 @@
-﻿namespace CompuMaster.Windows.DigitalRuneTextEditor.Highlighting
+﻿namespace CompuMaster.Windows.Forms.DigitalRuneTextEditor.Highlighting
 {
   /// <summary>
   /// Factory for creating syntax highlighting strategies.

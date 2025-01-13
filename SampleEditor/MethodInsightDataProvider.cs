@@ -1,6 +1,6 @@
-using CompuMaster.Windows.DigitalRuneTextEditor;
-using CompuMaster.Windows.DigitalRuneTextEditor.Document;
-using CompuMaster.Windows.DigitalRuneTextEditor.Insight;
+using CompuMaster.Windows.Forms.DigitalRuneTextEditor;
+using CompuMaster.Windows.Forms.DigitalRuneTextEditor.Document;
+using CompuMaster.Windows.Forms.DigitalRuneTextEditor.Insight;
 
 
 namespace CompuMaster.Windows.SampleEditor

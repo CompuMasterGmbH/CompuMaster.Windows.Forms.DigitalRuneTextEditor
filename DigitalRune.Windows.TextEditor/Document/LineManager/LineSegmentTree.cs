@@ -1,10 +1,10 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Diagnostics;
-using CompuMaster.Windows.DigitalRuneTextEditor.Utilities;
+using CompuMaster.Windows.Forms.DigitalRuneTextEditor.Utilities;
 
 
-namespace CompuMaster.Windows.DigitalRuneTextEditor.Document
+namespace CompuMaster.Windows.Forms.DigitalRuneTextEditor.Document
 {
   /// <summary>
   /// Data structure for efficient management of the line segments (most operations are O(lg n)).

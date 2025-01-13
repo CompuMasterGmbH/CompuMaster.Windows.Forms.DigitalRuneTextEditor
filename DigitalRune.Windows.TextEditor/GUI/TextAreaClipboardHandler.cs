@@ -2,11 +2,11 @@
 using System.IO;
 using System.Runtime.InteropServices;
 using System.Windows.Forms;
-using CompuMaster.Windows.DigitalRuneTextEditor.Document;
-using CompuMaster.Windows.DigitalRuneTextEditor.Utilities;
+using CompuMaster.Windows.Forms.DigitalRuneTextEditor.Document;
+using CompuMaster.Windows.Forms.DigitalRuneTextEditor.Utilities;
 
 
-namespace CompuMaster.Windows.DigitalRuneTextEditor
+namespace CompuMaster.Windows.Forms.DigitalRuneTextEditor
 {
   /// <summary>
   /// Performs the clipboard actions (cut, copy, paste, ...) for a text area.

@@ -1,4 +1,4 @@
-﻿namespace CompuMaster.Windows.DigitalRuneTextEditor.Completion
+﻿namespace CompuMaster.Windows.Forms.DigitalRuneTextEditor.Completion
 {
   /// <summary>
   /// An entry for a code completion window.

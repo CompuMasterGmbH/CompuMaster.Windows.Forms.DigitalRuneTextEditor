@@ -5,7 +5,7 @@ using System.Globalization;
 using System.Reflection;
 using System.Xml;
 
-namespace CompuMaster.Windows.DigitalRuneTextEditor.Highlighting
+namespace CompuMaster.Windows.Forms.DigitalRuneTextEditor.Highlighting
 {
   /// <summary>
   /// A color/style used for highlighting.

@@ -2,12 +2,12 @@
 using System.Collections.Generic;
 using System.Drawing;
 using System.Windows.Forms;
-using CompuMaster.Windows.DigitalRuneTextEditor.Document;
-using CompuMaster.Windows.DigitalRuneTextEditor.Completion;
-using CompuMaster.Windows.DigitalRuneTextEditor.Utilities;
+using CompuMaster.Windows.Forms.DigitalRuneTextEditor.Document;
+using CompuMaster.Windows.Forms.DigitalRuneTextEditor.Completion;
+using CompuMaster.Windows.Forms.DigitalRuneTextEditor.Utilities;
 
 
-namespace CompuMaster.Windows.DigitalRuneTextEditor.Insight
+namespace CompuMaster.Windows.Forms.DigitalRuneTextEditor.Insight
 {
   /// <summary>
   /// Shows insight information for methods (and its overloads).

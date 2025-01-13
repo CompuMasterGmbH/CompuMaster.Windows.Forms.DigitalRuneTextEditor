@@ -1,10 +1,10 @@
 ﻿using System.Collections.Generic;
 using System.Drawing;
 using System.Windows.Forms;
-using CompuMaster.Windows.DigitalRuneTextEditor.Bookmarks;
+using CompuMaster.Windows.Forms.DigitalRuneTextEditor.Bookmarks;
 
 
-namespace CompuMaster.Windows.DigitalRuneTextEditor
+namespace CompuMaster.Windows.Forms.DigitalRuneTextEditor
 {
   /// <summary>
   /// The vertical strip next to the text that contains icons for bookmarks, breakpoints, etc.

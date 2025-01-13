@@ -5,7 +5,7 @@ using System.IO;
 using System.Xml;
 
 
-namespace CompuMaster.Windows.DigitalRuneTextEditor.Highlighting
+namespace CompuMaster.Windows.Forms.DigitalRuneTextEditor.Highlighting
 {
   /// <summary>
   /// Manages syntax highlighting.

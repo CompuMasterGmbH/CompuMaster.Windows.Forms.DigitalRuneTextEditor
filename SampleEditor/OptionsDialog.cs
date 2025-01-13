@@ -1,5 +1,5 @@
 using System.Windows.Forms;
-using CompuMaster.Windows.DigitalRuneTextEditor;
+using CompuMaster.Windows.Forms.DigitalRuneTextEditor;
 
 
 namespace CompuMaster.Windows.SampleEditor

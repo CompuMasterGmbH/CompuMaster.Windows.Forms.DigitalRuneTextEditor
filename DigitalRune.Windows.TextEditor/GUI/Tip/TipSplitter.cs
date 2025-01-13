@@ -3,7 +3,7 @@ using System.Diagnostics;
 using System.Drawing;
 
 
-namespace CompuMaster.Windows.DigitalRuneTextEditor
+namespace CompuMaster.Windows.Forms.DigitalRuneTextEditor
 {
   internal class TipSplitter : TipSection
   {

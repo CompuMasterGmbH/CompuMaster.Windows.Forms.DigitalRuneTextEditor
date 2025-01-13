@@ -1,13 +1,13 @@
 ﻿using System;
 using System.ComponentModel;
 using System.Windows.Forms;
-using CompuMaster.Windows.DigitalRuneTextEditor.Completion;
-using CompuMaster.Windows.DigitalRuneTextEditor.Document;
-using CompuMaster.Windows.DigitalRuneTextEditor.Highlighting;
-using CompuMaster.Windows.DigitalRuneTextEditor.Insight;
+using CompuMaster.Windows.Forms.DigitalRuneTextEditor.Completion;
+using CompuMaster.Windows.Forms.DigitalRuneTextEditor.Document;
+using CompuMaster.Windows.Forms.DigitalRuneTextEditor.Highlighting;
+using CompuMaster.Windows.Forms.DigitalRuneTextEditor.Insight;
 
 
-namespace CompuMaster.Windows.DigitalRuneTextEditor
+namespace CompuMaster.Windows.Forms.DigitalRuneTextEditor
 {
   public partial class TextEditorControl : UserControl
   {

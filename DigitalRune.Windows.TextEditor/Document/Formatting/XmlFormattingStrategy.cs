@@ -4,11 +4,11 @@ using System.Diagnostics;
 using System.IO;
 using System.Text;
 using System.Xml;
-using CompuMaster.Windows.DigitalRuneTextEditor.Actions;
-using CompuMaster.Windows.DigitalRuneTextEditor.Document;
+using CompuMaster.Windows.Forms.DigitalRuneTextEditor.Actions;
+using CompuMaster.Windows.Forms.DigitalRuneTextEditor.Document;
 
 
-namespace CompuMaster.Windows.DigitalRuneTextEditor.Formatting
+namespace CompuMaster.Windows.Forms.DigitalRuneTextEditor.Formatting
 {
   /// <summary>
   /// This class currently inserts the closing tags to typed opening tags

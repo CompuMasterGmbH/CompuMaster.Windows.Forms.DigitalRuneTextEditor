@@ -1,9 +1,9 @@
 ﻿using System;
 using System.Collections.Generic;
-using CompuMaster.Windows.DigitalRuneTextEditor.Document;
+using CompuMaster.Windows.Forms.DigitalRuneTextEditor.Document;
 
 
-namespace CompuMaster.Windows.DigitalRuneTextEditor.Markers
+namespace CompuMaster.Windows.Forms.DigitalRuneTextEditor.Markers
 {
   /// <summary>
   /// Manages the list of markers and provides ways to retrieve markers for 

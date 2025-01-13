@@ -1,7 +1,7 @@
-using CompuMaster.Windows.DigitalRuneTextEditor.Document;
+using CompuMaster.Windows.Forms.DigitalRuneTextEditor.Document;
 
 
-namespace CompuMaster.Windows.DigitalRuneTextEditor.Bookmarks
+namespace CompuMaster.Windows.Forms.DigitalRuneTextEditor.Bookmarks
 {
   /// <summary>
   /// A factory object for creating bookmarks.

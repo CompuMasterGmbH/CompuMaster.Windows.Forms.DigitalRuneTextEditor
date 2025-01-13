@@ -1,9 +1,9 @@
 using System;
 using System.Collections.Generic;
-using CompuMaster.Windows.DigitalRuneTextEditor.Document;
+using CompuMaster.Windows.Forms.DigitalRuneTextEditor.Document;
 
 
-namespace CompuMaster.Windows.DigitalRuneTextEditor.Folding
+namespace CompuMaster.Windows.Forms.DigitalRuneTextEditor.Folding
 {
   /// <summary>
   /// A simple folding strategy for HLSL files.

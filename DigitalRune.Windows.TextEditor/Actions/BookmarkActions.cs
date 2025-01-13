@@ -1,8 +1,8 @@
 ﻿using System;
-using CompuMaster.Windows.DigitalRuneTextEditor.Bookmarks;
+using CompuMaster.Windows.Forms.DigitalRuneTextEditor.Bookmarks;
 
 
-namespace CompuMaster.Windows.DigitalRuneTextEditor.Actions
+namespace CompuMaster.Windows.Forms.DigitalRuneTextEditor.Actions
 {
   /// <summary>
   /// Toggles a bookmark for the current line.

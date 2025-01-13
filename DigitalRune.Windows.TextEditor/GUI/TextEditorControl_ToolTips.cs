@@ -2,7 +2,7 @@ using System;
 using System.ComponentModel;
 
 
-namespace CompuMaster.Windows.DigitalRuneTextEditor
+namespace CompuMaster.Windows.Forms.DigitalRuneTextEditor
 {
   public partial class TextEditorControl
   {

@@ -6,7 +6,7 @@ using System.Xml;
 using System.Xml.Schema;
 
 
-namespace CompuMaster.Windows.DigitalRuneTextEditor.Highlighting
+namespace CompuMaster.Windows.Forms.DigitalRuneTextEditor.Highlighting
 {
   /// <summary>
   /// Parses syntax highlighting definitions and creates a highlighting strategy.

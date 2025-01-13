@@ -1,7 +1,7 @@
 using System;
 
 
-namespace CompuMaster.Windows.DigitalRuneTextEditor.Insight
+namespace CompuMaster.Windows.Forms.DigitalRuneTextEditor.Insight
 {
   /// <summary>
   /// Provides arguments for an method insight event.

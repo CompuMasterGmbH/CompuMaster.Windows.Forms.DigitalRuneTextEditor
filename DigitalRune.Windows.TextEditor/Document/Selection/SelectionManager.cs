@@ -2,11 +2,11 @@
 using System.Collections.Generic;
 using System.Drawing;
 using System.Text;
-using CompuMaster.Windows.DigitalRuneTextEditor.Document;
-using CompuMaster.Windows.DigitalRuneTextEditor.Markers;
+using CompuMaster.Windows.Forms.DigitalRuneTextEditor.Document;
+using CompuMaster.Windows.Forms.DigitalRuneTextEditor.Markers;
 
 
-namespace CompuMaster.Windows.DigitalRuneTextEditor.Selection
+namespace CompuMaster.Windows.Forms.DigitalRuneTextEditor.Selection
 {
   /// <summary>
   /// Manages the selections in a document.

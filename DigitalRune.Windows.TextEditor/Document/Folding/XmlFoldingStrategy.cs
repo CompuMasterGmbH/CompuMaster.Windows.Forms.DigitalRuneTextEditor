@@ -4,10 +4,10 @@ using System.Collections.Generic;
 using System.IO;
 using System.Text;
 using System.Xml;
-using CompuMaster.Windows.DigitalRuneTextEditor.Document;
+using CompuMaster.Windows.Forms.DigitalRuneTextEditor.Document;
 
 
-namespace CompuMaster.Windows.DigitalRuneTextEditor.Folding
+namespace CompuMaster.Windows.Forms.DigitalRuneTextEditor.Folding
 {
   /// <summary>
   /// Holds information about the start of a fold in an xml string.

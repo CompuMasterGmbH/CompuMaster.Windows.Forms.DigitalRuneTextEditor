@@ -3,7 +3,7 @@ using System.Diagnostics;
 using System.Text;
 
 
-namespace CompuMaster.Windows.DigitalRuneTextEditor.TextBuffer
+namespace CompuMaster.Windows.Forms.DigitalRuneTextEditor.TextBuffer
 {
   /// <summary>
   /// Implements a text buffer using the 'gap text' strategy.

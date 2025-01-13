@@ -1,7 +1,7 @@
 ﻿using System.Windows.Forms;
 
 
-namespace CompuMaster.Windows.DigitalRuneTextEditor.Actions
+namespace CompuMaster.Windows.Forms.DigitalRuneTextEditor.Actions
 {
   /// <summary>
   /// Executes a complex action on a <see cref="TextArea"/>.

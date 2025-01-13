@@ -1,7 +1,7 @@
 using System;
 
 
-namespace CompuMaster.Windows.DigitalRuneTextEditor.Document
+namespace CompuMaster.Windows.Forms.DigitalRuneTextEditor.Document
 {
   /// <summary>
   /// Describes how a <see cref="TextAnchor"/> is moved when text is inserted.

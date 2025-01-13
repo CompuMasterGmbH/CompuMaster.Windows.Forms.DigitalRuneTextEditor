@@ -4,16 +4,16 @@ using System.ComponentModel;
 using System.Diagnostics;
 using System.Drawing;
 using System.Windows.Forms;
-using CompuMaster.Windows.DigitalRuneTextEditor.Actions;
-using CompuMaster.Windows.DigitalRuneTextEditor.Document;
-using CompuMaster.Windows.DigitalRuneTextEditor.Folding;
-using CompuMaster.Windows.DigitalRuneTextEditor.Markers;
-using CompuMaster.Windows.DigitalRuneTextEditor.Selection;
-using CompuMaster.Windows.DigitalRuneTextEditor.Completion;
-using CompuMaster.Windows.DigitalRuneTextEditor.Properties;
+using CompuMaster.Windows.Forms.DigitalRuneTextEditor.Actions;
+using CompuMaster.Windows.Forms.DigitalRuneTextEditor.Document;
+using CompuMaster.Windows.Forms.DigitalRuneTextEditor.Folding;
+using CompuMaster.Windows.Forms.DigitalRuneTextEditor.Markers;
+using CompuMaster.Windows.Forms.DigitalRuneTextEditor.Selection;
+using CompuMaster.Windows.Forms.DigitalRuneTextEditor.Completion;
+using CompuMaster.Windows.Forms.DigitalRuneTextEditor.Properties;
 
 
-namespace CompuMaster.Windows.DigitalRuneTextEditor
+namespace CompuMaster.Windows.Forms.DigitalRuneTextEditor
 {
   /// <summary>
   /// The text area control.
@@ -515,7 +515,7 @@ namespace CompuMaster.Windows.DigitalRuneTextEditor
     /// <summary>
     /// Raises the <see cref="ToolTipRequest"/> event.
     /// </summary>
-    /// <param name="e">The <see cref="CompuMaster.Windows.DigitalRuneTextEditor.ToolTipRequestEventArgs"/> instance containing the event data.</param>
+    /// <param name="e">The <see cref="CompuMaster.Windows.Forms.DigitalRuneTextEditor.ToolTipRequestEventArgs"/> instance containing the event data.</param>
     protected virtual void OnToolTipRequest(ToolTipRequestEventArgs e)
     {
       if (ToolTipRequest != null)

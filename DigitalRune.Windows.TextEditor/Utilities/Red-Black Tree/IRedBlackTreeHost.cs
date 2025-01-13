@@ -1,7 +1,7 @@
 ﻿using System.Collections.Generic;
 
 
-namespace CompuMaster.Windows.DigitalRuneTextEditor.Utilities
+namespace CompuMaster.Windows.Forms.DigitalRuneTextEditor.Utilities
 {
   internal interface IRedBlackTreeHost<T> : IComparer<T>
   {
