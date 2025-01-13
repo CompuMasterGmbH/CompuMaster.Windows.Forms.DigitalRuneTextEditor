@@ -2,11 +2,11 @@
 using System.Diagnostics;
 using System.Drawing;
 using System.Windows.Forms;
-using DigitalRune.Windows.TextEditor.Document;
-using DigitalRune.Windows.TextEditor.Utilities;
+using CompuMaster.Windows.DigitalRuneTextEditor.Document;
+using CompuMaster.Windows.DigitalRuneTextEditor.Utilities;
 
 
-namespace DigitalRune.Windows.TextEditor.Completion
+namespace CompuMaster.Windows.DigitalRuneTextEditor.Completion
 {
   /// <summary>
   /// The default code completion window.

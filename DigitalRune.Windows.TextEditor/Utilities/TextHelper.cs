@@ -1,10 +1,10 @@
 ﻿using System;
 using System.Diagnostics;
 using System.Text;
-using DigitalRune.Windows.TextEditor.Document;
+using CompuMaster.Windows.DigitalRuneTextEditor.Document;
 
 
-namespace DigitalRune.Windows.TextEditor
+namespace CompuMaster.Windows.DigitalRuneTextEditor
 {
     /// <summary>
     /// Helper functions for manipulating text.

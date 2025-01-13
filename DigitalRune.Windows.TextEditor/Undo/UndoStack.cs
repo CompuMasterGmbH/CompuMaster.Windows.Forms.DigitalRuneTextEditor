@@ -1,10 +1,10 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Diagnostics;
-using DigitalRune.Windows.TextEditor.Document;
+using CompuMaster.Windows.DigitalRuneTextEditor.Document;
 
 
-namespace DigitalRune.Windows.TextEditor.Undo
+namespace CompuMaster.Windows.DigitalRuneTextEditor.Undo
 {
   /// <summary>
   /// Implements an undo stack.

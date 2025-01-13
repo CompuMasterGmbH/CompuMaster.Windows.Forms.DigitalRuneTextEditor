@@ -1,7 +1,7 @@
 using System;
 
 
-namespace DigitalRune.Windows.TextEditor.Completion
+namespace CompuMaster.Windows.DigitalRuneTextEditor.Completion
 {
   /// <summary>
   /// Provides arguments for an code completion event.

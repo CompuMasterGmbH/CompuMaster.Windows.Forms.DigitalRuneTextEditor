@@ -2,12 +2,12 @@
 using System.Collections.Generic;
 using System.Drawing;
 using System.Text;
-using DigitalRune.Windows.TextEditor.Document;
-using DigitalRune.Windows.TextEditor.Highlighting;
-using DigitalRune.Windows.TextEditor.Selection;
+using CompuMaster.Windows.DigitalRuneTextEditor.Document;
+using CompuMaster.Windows.DigitalRuneTextEditor.Highlighting;
+using CompuMaster.Windows.DigitalRuneTextEditor.Selection;
 
 
-namespace DigitalRune.Windows.TextEditor.Utilities
+namespace CompuMaster.Windows.DigitalRuneTextEditor.Utilities
 {
   /// <summary>
   /// Converts the selected text of a <see cref="TextArea"/> into Rich Text Format.

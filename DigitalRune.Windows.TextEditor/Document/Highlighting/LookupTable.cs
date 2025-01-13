@@ -1,8 +1,8 @@
 ﻿using System;
-using DigitalRune.Windows.TextEditor.Document;
+using CompuMaster.Windows.DigitalRuneTextEditor.Document;
 
 
-namespace DigitalRune.Windows.TextEditor.Highlighting
+namespace CompuMaster.Windows.DigitalRuneTextEditor.Highlighting
 {
   /// <summary>
   /// This class implements a keyword map. It implements a digital search tree (tries) to find

@@ -2,7 +2,7 @@ using System;
 using System.Collections.Generic;
 
 
-namespace DigitalRune.Windows.TextEditor.Utilities
+namespace CompuMaster.Windows.DigitalRuneTextEditor.Utilities
 {
   /// <summary>
   /// A collection that allows its elements to be garbage-collected (unless there are other

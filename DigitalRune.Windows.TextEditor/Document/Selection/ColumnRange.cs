@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace DigitalRune.Windows.TextEditor.Selection
+namespace CompuMaster.Windows.DigitalRuneTextEditor.Selection
 {
   /// <summary>
   /// Defines a column range.

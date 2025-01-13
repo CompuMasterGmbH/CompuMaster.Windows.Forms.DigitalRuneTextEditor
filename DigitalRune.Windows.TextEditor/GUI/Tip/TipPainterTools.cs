@@ -3,7 +3,7 @@ using System.Drawing;
 using System.Windows.Forms;
 
 
-namespace DigitalRune.Windows.TextEditor
+namespace CompuMaster.Windows.DigitalRuneTextEditor
 {
   internal static class TipPainterTools
   {

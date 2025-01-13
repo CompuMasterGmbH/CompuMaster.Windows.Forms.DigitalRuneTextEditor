@@ -2,11 +2,11 @@
 using System.Collections.Generic;
 using System.Drawing;
 using System.Windows.Forms;
-using DigitalRune.Windows.TextEditor.Folding;
-using DigitalRune.Windows.TextEditor.Highlighting;
+using CompuMaster.Windows.DigitalRuneTextEditor.Folding;
+using CompuMaster.Windows.DigitalRuneTextEditor.Highlighting;
 
 
-namespace DigitalRune.Windows.TextEditor
+namespace CompuMaster.Windows.DigitalRuneTextEditor
 {
   /// <summary>
   /// The vertical strip next to the text that indicates the folds (collapsible regions) of the 

@@ -4,14 +4,14 @@ using System.Drawing;
 using System.IO;
 using System.Text;
 using System.Windows.Forms;
-using DigitalRune.Windows.TextEditor.Document;
-using DigitalRune.Windows.TextEditor.Folding;
-using DigitalRune.Windows.TextEditor.Formatting;
-using DigitalRune.Windows.TextEditor.Highlighting;
-using DigitalRune.Windows.TextEditor.Properties;
+using CompuMaster.Windows.DigitalRuneTextEditor.Document;
+using CompuMaster.Windows.DigitalRuneTextEditor.Folding;
+using CompuMaster.Windows.DigitalRuneTextEditor.Formatting;
+using CompuMaster.Windows.DigitalRuneTextEditor.Highlighting;
+using CompuMaster.Windows.DigitalRuneTextEditor.Properties;
 
 
-namespace DigitalRune.Windows.TextEditor
+namespace CompuMaster.Windows.DigitalRuneTextEditor
 {
   /// <summary>
   /// The text editor control.
@@ -389,7 +389,7 @@ namespace DigitalRune.Windows.TextEditor
     /// <summary>
     /// Raises the <see cref="DocumentAboutToBeChanged"/> event.
     /// </summary>
-    /// <param name="documentEventArgs">The <see cref="DigitalRune.Windows.TextEditor.Document.DocumentEventArgs"/> instance containing the event data.</param>
+    /// <param name="documentEventArgs">The <see cref="CompuMaster.Windows.DigitalRuneTextEditor.Document.DocumentEventArgs"/> instance containing the event data.</param>
     protected virtual void OnDocumentAboutToBeChanged(DocumentEventArgs documentEventArgs)
     {
       EventHandler<DocumentEventArgs> handler = DocumentAboutToBeChanged;
@@ -407,7 +407,7 @@ namespace DigitalRune.Windows.TextEditor
     /// <summary>
     /// Raises the <see cref="DocumentChanged"/> event.
     /// </summary>
-    /// <param name="documentEventArgs">The <see cref="DigitalRune.Windows.TextEditor.Document.DocumentEventArgs"/> instance containing the event data.</param>
+    /// <param name="documentEventArgs">The <see cref="CompuMaster.Windows.DigitalRuneTextEditor.Document.DocumentEventArgs"/> instance containing the event data.</param>
     protected virtual void OnDocumentChanged(DocumentEventArgs documentEventArgs)
     {
       EventHandler<DocumentEventArgs> handler = DocumentChanged;

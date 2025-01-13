@@ -3,7 +3,7 @@ using System.Drawing;
 using System.Windows.Forms;
 
 
-namespace DigitalRune.Windows.TextEditor.Completion
+namespace CompuMaster.Windows.DigitalRuneTextEditor.Completion
 {
   /// <summary>
   /// A tool-tip window.

@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace DigitalRune.Windows.TextEditor.Bookmarks
+namespace CompuMaster.Windows.DigitalRuneTextEditor.Bookmarks
 {
 	/// <summary>
 	/// Event arguments for bookmark related events.

@@ -2,10 +2,10 @@ using System.ComponentModel;
 using System.Drawing;
 using System.Drawing.Text;
 using System.Windows.Forms;
-using DigitalRune.Windows.TextEditor.Properties;
+using CompuMaster.Windows.DigitalRuneTextEditor.Properties;
 
 
-namespace DigitalRune.Windows.TextEditor
+namespace CompuMaster.Windows.DigitalRuneTextEditor
 {
   public partial class TextEditorControl
   {

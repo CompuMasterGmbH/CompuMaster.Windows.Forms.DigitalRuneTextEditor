@@ -1,9 +1,9 @@
 using System;
 using System.ComponentModel;
-using DigitalRune.Windows.TextEditor.Completion;
+using CompuMaster.Windows.DigitalRuneTextEditor.Completion;
 
 
-namespace DigitalRune.Windows.TextEditor
+namespace CompuMaster.Windows.DigitalRuneTextEditor
 {
   public partial class TextEditorControl
   {

@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Runtime.Serialization;
 
-namespace DigitalRune.Windows.TextEditor.Highlighting
+namespace CompuMaster.Windows.DigitalRuneTextEditor.Highlighting
 {
 	/// <summary>
 	/// Indicates that the highlighting definition that was tried to load was invalid.

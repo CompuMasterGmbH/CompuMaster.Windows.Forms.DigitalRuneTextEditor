@@ -1,7 +1,7 @@
-﻿using DigitalRune.Windows.TextEditor.Document;
+﻿using CompuMaster.Windows.DigitalRuneTextEditor.Document;
 
 
-namespace DigitalRune.Windows.TextEditor.Actions
+namespace CompuMaster.Windows.DigitalRuneTextEditor.Actions
 {
   /// <summary>
   /// Moves the caret to the right and extend the selection. 

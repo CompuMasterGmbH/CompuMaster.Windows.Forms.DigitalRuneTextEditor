@@ -2,7 +2,7 @@ using System;
 using System.Windows.Forms;
 
 
-namespace DigitalRune.Windows.SampleEditor
+namespace CompuMaster.Windows.SampleEditor
 {
   static class Program
   {

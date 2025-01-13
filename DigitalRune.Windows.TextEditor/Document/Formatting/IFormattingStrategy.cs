@@ -1,7 +1,7 @@
-﻿using DigitalRune.Windows.TextEditor.Document;
+﻿using CompuMaster.Windows.DigitalRuneTextEditor.Document;
 
 
-namespace DigitalRune.Windows.TextEditor.Formatting
+namespace CompuMaster.Windows.DigitalRuneTextEditor.Formatting
 {
 	/// <summary>
 	/// This interface handles the auto and smart indenting and formatting

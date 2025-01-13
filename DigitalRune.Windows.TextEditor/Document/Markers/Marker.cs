@@ -1,8 +1,8 @@
 ﻿using System;
 using System.Drawing;
-using DigitalRune.Windows.TextEditor.Document;
+using CompuMaster.Windows.DigitalRuneTextEditor.Document;
 
-namespace DigitalRune.Windows.TextEditor.Markers
+namespace CompuMaster.Windows.DigitalRuneTextEditor.Markers
 {
   /// <summary>
   /// Marks a part of a document.

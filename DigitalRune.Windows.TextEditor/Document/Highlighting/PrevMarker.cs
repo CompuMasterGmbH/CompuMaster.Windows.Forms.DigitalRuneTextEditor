@@ -2,7 +2,7 @@
 using System.Xml;
 
 
-namespace DigitalRune.Windows.TextEditor.Highlighting
+namespace CompuMaster.Windows.DigitalRuneTextEditor.Highlighting
 {
   /// <summary>
   /// Used to mark previous token.

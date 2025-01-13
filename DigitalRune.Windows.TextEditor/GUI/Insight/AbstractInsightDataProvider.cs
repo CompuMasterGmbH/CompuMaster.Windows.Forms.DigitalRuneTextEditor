@@ -1,8 +1,8 @@
 using System;
-using DigitalRune.Windows.TextEditor.Document;
+using CompuMaster.Windows.DigitalRuneTextEditor.Document;
 
 
-namespace DigitalRune.Windows.TextEditor.Insight
+namespace CompuMaster.Windows.DigitalRuneTextEditor.Insight
 {
   /// <summary>
   /// Provides base functionality of an <see cref="IInsightDataProvider"/>.

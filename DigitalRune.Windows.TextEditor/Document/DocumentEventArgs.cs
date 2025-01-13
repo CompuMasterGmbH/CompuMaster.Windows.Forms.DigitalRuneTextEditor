@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace DigitalRune.Windows.TextEditor.Document
+namespace CompuMaster.Windows.DigitalRuneTextEditor.Document
 {
   /// <summary>
   /// This class contains more information on a document event

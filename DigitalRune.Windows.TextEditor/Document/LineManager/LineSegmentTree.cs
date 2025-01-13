@@ -1,10 +1,10 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Diagnostics;
-using DigitalRune.Windows.TextEditor.Utilities;
+using CompuMaster.Windows.DigitalRuneTextEditor.Utilities;
 
 
-namespace DigitalRune.Windows.TextEditor.Document
+namespace CompuMaster.Windows.DigitalRuneTextEditor.Document
 {
   /// <summary>
   /// Data structure for efficient management of the line segments (most operations are O(lg n)).

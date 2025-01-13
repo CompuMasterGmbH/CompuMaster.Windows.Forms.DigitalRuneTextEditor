@@ -1,11 +1,11 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Collections.ObjectModel;
-using DigitalRune.Windows.TextEditor.Document;
-using DigitalRune.Windows.TextEditor.Utilities;
+using CompuMaster.Windows.DigitalRuneTextEditor.Document;
+using CompuMaster.Windows.DigitalRuneTextEditor.Utilities;
 
 
-namespace DigitalRune.Windows.TextEditor.Bookmarks
+namespace CompuMaster.Windows.DigitalRuneTextEditor.Bookmarks
 {
   /// <summary>
   /// This class handles the bookmarks for a buffer.
@@ -282,7 +282,7 @@ namespace DigitalRune.Windows.TextEditor.Bookmarks
     /// <summary>
     /// Raises the <see cref="Added"/> event.
     /// </summary>
-    /// <param name="e">The <see cref="DigitalRune.Windows.TextEditor.Bookmarks.BookmarkEventArgs"/> instance containing the event data.</param>
+    /// <param name="e">The <see cref="CompuMaster.Windows.DigitalRuneTextEditor.Bookmarks.BookmarkEventArgs"/> instance containing the event data.</param>
     protected virtual void OnAdded(BookmarkEventArgs e)
     {
       if (Added != null)
@@ -293,7 +293,7 @@ namespace DigitalRune.Windows.TextEditor.Bookmarks
     /// <summary>
     /// Raises the <see cref="Removed"/> event.
     /// </summary>
-    /// <param name="e">The <see cref="DigitalRune.Windows.TextEditor.Bookmarks.BookmarkEventArgs"/> instance containing the event data.</param>
+    /// <param name="e">The <see cref="CompuMaster.Windows.DigitalRuneTextEditor.Bookmarks.BookmarkEventArgs"/> instance containing the event data.</param>
     protected virtual void OnRemoved(BookmarkEventArgs e)
     {
       if (Removed != null)

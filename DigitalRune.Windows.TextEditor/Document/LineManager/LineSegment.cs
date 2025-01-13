@@ -2,10 +2,10 @@
 using System.Collections.Generic;
 using System.Diagnostics;
 using System.Drawing;
-using DigitalRune.Windows.TextEditor.Highlighting;
+using CompuMaster.Windows.DigitalRuneTextEditor.Highlighting;
 
 
-namespace DigitalRune.Windows.TextEditor.Document
+namespace CompuMaster.Windows.DigitalRuneTextEditor.Document
 {
   /// <summary>
   /// Describes a line of a document.

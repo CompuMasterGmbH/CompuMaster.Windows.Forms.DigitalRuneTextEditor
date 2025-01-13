@@ -1,10 +1,10 @@
 ﻿using System;
 using System.Drawing;
 using System.Windows.Forms;
-using DigitalRune.Windows.TextEditor;
-using DigitalRune.Windows.TextEditor.Document;
+using CompuMaster.Windows.DigitalRuneTextEditor;
+using CompuMaster.Windows.DigitalRuneTextEditor.Document;
 
-namespace DigitalRune.Windows.TextEditor.Bookmarks
+namespace CompuMaster.Windows.DigitalRuneTextEditor.Bookmarks
 {
   /// <summary>
   /// Description of Bookmark.

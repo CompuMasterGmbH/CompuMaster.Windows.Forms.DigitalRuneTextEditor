@@ -2,7 +2,7 @@ using System.Diagnostics;
 using System.Windows.Forms;
 
 
-namespace DigitalRune.Windows.SampleEditor
+namespace CompuMaster.Windows.SampleEditor
 {
   public partial class AboutDialog : Form
   {

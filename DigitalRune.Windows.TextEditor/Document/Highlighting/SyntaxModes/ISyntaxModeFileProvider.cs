@@ -2,7 +2,7 @@
 using System.Xml;
 
 
-namespace DigitalRune.Windows.TextEditor.Highlighting
+namespace CompuMaster.Windows.DigitalRuneTextEditor.Highlighting
 {
   /// <summary>
   /// Provides syntax highlighting definitions.

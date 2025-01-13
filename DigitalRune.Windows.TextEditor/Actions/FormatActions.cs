@@ -1,10 +1,10 @@
 ﻿using System;
 using System.Text;
-using DigitalRune.Windows.TextEditor.Document;
-using DigitalRune.Windows.TextEditor.Selection;
+using CompuMaster.Windows.DigitalRuneTextEditor.Document;
+using CompuMaster.Windows.DigitalRuneTextEditor.Selection;
 
 
-namespace DigitalRune.Windows.TextEditor.Actions
+namespace CompuMaster.Windows.DigitalRuneTextEditor.Actions
 {
   /// <summary>
   /// Base class for all line formatting actions.

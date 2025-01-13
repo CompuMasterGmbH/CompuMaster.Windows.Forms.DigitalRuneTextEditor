@@ -4,11 +4,11 @@ using System.Diagnostics;
 using System.IO;
 using System.Text;
 using System.Xml;
-using DigitalRune.Windows.TextEditor.Actions;
-using DigitalRune.Windows.TextEditor.Document;
+using CompuMaster.Windows.DigitalRuneTextEditor.Actions;
+using CompuMaster.Windows.DigitalRuneTextEditor.Document;
 
 
-namespace DigitalRune.Windows.TextEditor.Formatting
+namespace CompuMaster.Windows.DigitalRuneTextEditor.Formatting
 {
   /// <summary>
   /// This class currently inserts the closing tags to typed opening tags

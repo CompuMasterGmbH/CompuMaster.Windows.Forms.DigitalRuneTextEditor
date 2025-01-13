@@ -1,8 +1,8 @@
 using System.Windows.Forms;
-using DigitalRune.Windows.TextEditor;
+using CompuMaster.Windows.DigitalRuneTextEditor;
 
 
-namespace DigitalRune.Windows.SampleEditor
+namespace CompuMaster.Windows.SampleEditor
 {
   public partial class OptionsDialog : Form
   {

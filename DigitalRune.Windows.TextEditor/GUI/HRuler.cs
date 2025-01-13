@@ -1,9 +1,9 @@
 ﻿using System.Drawing;
 using System.Windows.Forms;
-using DigitalRune.Windows.TextEditor.Highlighting;
+using CompuMaster.Windows.DigitalRuneTextEditor.Highlighting;
 
 
-namespace DigitalRune.Windows.TextEditor
+namespace CompuMaster.Windows.DigitalRuneTextEditor
 {
   /// <summary>
   /// Horizontal ruler - text column measuring ruler at the top of the text area.

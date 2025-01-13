@@ -1,4 +1,4 @@
-﻿namespace DigitalRune.Windows.TextEditor.Highlighting
+﻿namespace CompuMaster.Windows.DigitalRuneTextEditor.Highlighting
 {
   /// <summary>
   /// Factory for creating syntax highlighting strategies.

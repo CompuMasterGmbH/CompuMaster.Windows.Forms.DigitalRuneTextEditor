@@ -1,11 +1,11 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Drawing;
-using DigitalRune.Windows.TextEditor.Document;
-using DigitalRune.Windows.TextEditor.Folding;
+using CompuMaster.Windows.DigitalRuneTextEditor.Document;
+using CompuMaster.Windows.DigitalRuneTextEditor.Folding;
 
 
-namespace DigitalRune.Windows.TextEditor.Actions
+namespace CompuMaster.Windows.DigitalRuneTextEditor.Actions
 {
   /// <summary>
   /// Moves the caret one position to the left.

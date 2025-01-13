@@ -3,7 +3,7 @@ using System.Xml;
 using System.Collections.Generic;
 
 
-namespace DigitalRune.Windows.TextEditor.Highlighting
+namespace CompuMaster.Windows.DigitalRuneTextEditor.Highlighting
 {
   /// <summary>
   /// Defines a set of syntax highlighting rules.

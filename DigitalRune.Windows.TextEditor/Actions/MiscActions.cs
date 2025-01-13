@@ -1,12 +1,12 @@
 ﻿using System;
 using System.Diagnostics;
 using System.Text;
-using DigitalRune.Windows.TextEditor.Document;
-using DigitalRune.Windows.TextEditor.Selection;
-using DigitalRune.Windows.TextEditor.Properties;
+using CompuMaster.Windows.DigitalRuneTextEditor.Document;
+using CompuMaster.Windows.DigitalRuneTextEditor.Selection;
+using CompuMaster.Windows.DigitalRuneTextEditor.Properties;
 
 
-namespace DigitalRune.Windows.TextEditor.Actions
+namespace CompuMaster.Windows.DigitalRuneTextEditor.Actions
 {
   /// <summary>
   /// Inserts a tab/indent.

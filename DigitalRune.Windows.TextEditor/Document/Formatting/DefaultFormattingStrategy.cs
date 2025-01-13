@@ -1,10 +1,10 @@
 ﻿using System;
 using System.Text;
-using DigitalRune.Windows.TextEditor.Document;
-using DigitalRune.Windows.TextEditor.Properties;
+using CompuMaster.Windows.DigitalRuneTextEditor.Document;
+using CompuMaster.Windows.DigitalRuneTextEditor.Properties;
 
 
-namespace DigitalRune.Windows.TextEditor.Formatting
+namespace CompuMaster.Windows.DigitalRuneTextEditor.Formatting
 {
   /// <summary>
   /// This class handles the auto and smart indenting in the text buffer while

@@ -3,7 +3,7 @@ using System.IO;
 using System.Text;
 
 
-namespace DigitalRune.Windows.TextEditor.Utilities
+namespace CompuMaster.Windows.DigitalRuneTextEditor.Utilities
 {
   /// <summary>
   /// Reads text files with automatic detection of the encoding.

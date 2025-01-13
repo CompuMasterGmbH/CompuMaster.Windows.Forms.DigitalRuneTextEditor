@@ -1,9 +1,9 @@
 using System.Collections.Generic;
 using System.Windows.Forms;
-using DigitalRune.Windows.TextEditor.Actions;
+using CompuMaster.Windows.DigitalRuneTextEditor.Actions;
 
 
-namespace DigitalRune.Windows.TextEditor
+namespace CompuMaster.Windows.DigitalRuneTextEditor
 {
   partial class TextEditorControl
   {

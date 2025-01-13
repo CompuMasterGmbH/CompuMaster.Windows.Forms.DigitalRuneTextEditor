@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 
 
-namespace DigitalRune.Windows.TextEditor.Utilities
+namespace CompuMaster.Windows.DigitalRuneTextEditor.Utilities
 {
   internal struct RedBlackTreeIterator<T> : IEnumerator<T>
   {

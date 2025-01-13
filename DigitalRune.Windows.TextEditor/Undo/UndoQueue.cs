@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Diagnostics;
 
-namespace DigitalRune.Windows.TextEditor.Undo
+namespace CompuMaster.Windows.DigitalRuneTextEditor.Undo
 {
   /// <summary>
   /// This class stacks the last x operations from the <see cref="UndoStack"/> and makes

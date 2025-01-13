@@ -1,9 +1,9 @@
 using System;
 using System.ComponentModel;
-using DigitalRune.Windows.TextEditor.Insight;
+using CompuMaster.Windows.DigitalRuneTextEditor.Insight;
 
 
-namespace DigitalRune.Windows.TextEditor
+namespace CompuMaster.Windows.DigitalRuneTextEditor
 {
   public partial class TextEditorControl
   {

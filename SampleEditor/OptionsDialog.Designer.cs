@@ -1,4 +1,4 @@
-namespace DigitalRune.Windows.SampleEditor
+namespace CompuMaster.Windows.SampleEditor
 {
   partial class OptionsDialog
   {

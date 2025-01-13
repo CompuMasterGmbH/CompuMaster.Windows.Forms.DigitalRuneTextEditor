@@ -1,9 +1,9 @@
 using System;
 using System.Collections.Generic;
-using DigitalRune.Windows.TextEditor.Document;
+using CompuMaster.Windows.DigitalRuneTextEditor.Document;
 
 
-namespace DigitalRune.Windows.TextEditor.Folding
+namespace CompuMaster.Windows.DigitalRuneTextEditor.Folding
 {
   /// <summary>
   /// A simple folding strategy for C# files.

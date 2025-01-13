@@ -1,4 +1,4 @@
-namespace DigitalRune.Windows.TextEditor.Markers
+namespace CompuMaster.Windows.DigitalRuneTextEditor.Markers
 {
   /// <summary>
   /// Defines the type of a <see cref="Marker"/>.

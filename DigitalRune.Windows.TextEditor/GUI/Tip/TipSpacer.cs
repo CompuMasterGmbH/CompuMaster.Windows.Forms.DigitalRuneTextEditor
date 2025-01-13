@@ -2,7 +2,7 @@ using System;
 using System.Drawing;
 
 
-namespace DigitalRune.Windows.TextEditor
+namespace CompuMaster.Windows.DigitalRuneTextEditor
 {
   internal class TipSpacer : TipSection
   {

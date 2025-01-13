@@ -1,7 +1,7 @@
 using System;
 
 
-namespace DigitalRune.Windows.TextEditor.Completion
+namespace CompuMaster.Windows.DigitalRuneTextEditor.Completion
 {
   /// <summary>
   /// The default implementation for <see cref="ICompletionData"/>.

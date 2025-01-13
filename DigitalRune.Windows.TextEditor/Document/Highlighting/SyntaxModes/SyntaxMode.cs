@@ -4,7 +4,7 @@ using System.IO;
 using System.Xml;
 
 
-namespace DigitalRune.Windows.TextEditor.Highlighting
+namespace CompuMaster.Windows.DigitalRuneTextEditor.Highlighting
 {
   /// <summary>
   /// Describes a syntax highlighting mode.

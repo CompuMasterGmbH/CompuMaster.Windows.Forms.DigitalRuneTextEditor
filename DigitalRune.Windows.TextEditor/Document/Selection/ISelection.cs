@@ -1,7 +1,7 @@
-﻿using DigitalRune.Windows.TextEditor.Document;
+﻿using CompuMaster.Windows.DigitalRuneTextEditor.Document;
 
 
-namespace DigitalRune.Windows.TextEditor.Selection
+namespace CompuMaster.Windows.DigitalRuneTextEditor.Selection
 {
   /// <summary>
   /// Representing a single selection.

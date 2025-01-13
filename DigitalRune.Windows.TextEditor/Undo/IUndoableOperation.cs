@@ -1,4 +1,4 @@
-﻿namespace DigitalRune.Windows.TextEditor.Undo
+﻿namespace CompuMaster.Windows.DigitalRuneTextEditor.Undo
 {
 	/// <summary>
 	/// This Interface describes a the basic Undo/Redo operation

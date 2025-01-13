@@ -1,10 +1,10 @@
 using System.Collections.Generic;
 using System.Windows.Forms;
-using DigitalRune.Windows.TextEditor;
-using DigitalRune.Windows.TextEditor.Completion;
+using CompuMaster.Windows.DigitalRuneTextEditor;
+using CompuMaster.Windows.DigitalRuneTextEditor.Completion;
 
 
-namespace DigitalRune.Windows.SampleEditor
+namespace CompuMaster.Windows.SampleEditor
 {
   class CodeCompletionDataProvider : AbstractCompletionDataProvider
   {

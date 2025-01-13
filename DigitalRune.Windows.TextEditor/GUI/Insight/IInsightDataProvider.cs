@@ -1,4 +1,4 @@
-﻿namespace DigitalRune.Windows.TextEditor.Insight
+﻿namespace CompuMaster.Windows.DigitalRuneTextEditor.Insight
 {
   /// <summary>
   /// Provides insight information for a certain method (and its overloads).

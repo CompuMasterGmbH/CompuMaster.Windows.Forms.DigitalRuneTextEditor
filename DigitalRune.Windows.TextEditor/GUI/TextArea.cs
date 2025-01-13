@@ -4,16 +4,16 @@ using System.ComponentModel;
 using System.Diagnostics;
 using System.Drawing;
 using System.Windows.Forms;
-using DigitalRune.Windows.TextEditor.Actions;
-using DigitalRune.Windows.TextEditor.Document;
-using DigitalRune.Windows.TextEditor.Folding;
-using DigitalRune.Windows.TextEditor.Markers;
-using DigitalRune.Windows.TextEditor.Selection;
-using DigitalRune.Windows.TextEditor.Completion;
-using DigitalRune.Windows.TextEditor.Properties;
+using CompuMaster.Windows.DigitalRuneTextEditor.Actions;
+using CompuMaster.Windows.DigitalRuneTextEditor.Document;
+using CompuMaster.Windows.DigitalRuneTextEditor.Folding;
+using CompuMaster.Windows.DigitalRuneTextEditor.Markers;
+using CompuMaster.Windows.DigitalRuneTextEditor.Selection;
+using CompuMaster.Windows.DigitalRuneTextEditor.Completion;
+using CompuMaster.Windows.DigitalRuneTextEditor.Properties;
 
 
-namespace DigitalRune.Windows.TextEditor
+namespace CompuMaster.Windows.DigitalRuneTextEditor
 {
   /// <summary>
   /// The text area control.
@@ -515,7 +515,7 @@ namespace DigitalRune.Windows.TextEditor
     /// <summary>
     /// Raises the <see cref="ToolTipRequest"/> event.
     /// </summary>
-    /// <param name="e">The <see cref="DigitalRune.Windows.TextEditor.ToolTipRequestEventArgs"/> instance containing the event data.</param>
+    /// <param name="e">The <see cref="CompuMaster.Windows.DigitalRuneTextEditor.ToolTipRequestEventArgs"/> instance containing the event data.</param>
     protected virtual void OnToolTipRequest(ToolTipRequestEventArgs e)
     {
       if (ToolTipRequest != null)

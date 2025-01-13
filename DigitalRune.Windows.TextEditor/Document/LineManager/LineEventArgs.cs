@@ -1,7 +1,7 @@
 using System;
 
 
-namespace DigitalRune.Windows.TextEditor.Document
+namespace CompuMaster.Windows.DigitalRuneTextEditor.Document
 {
   /// <summary>
   /// Event arguments for events raised by an <see cref="LineManager"/>.

@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Drawing;
 
-namespace DigitalRune.Windows.TextEditor.Highlighting
+namespace CompuMaster.Windows.DigitalRuneTextEditor.Highlighting
 {
   /// <summary>
   /// This class is used to generate bold, italic and bold/italic fonts out

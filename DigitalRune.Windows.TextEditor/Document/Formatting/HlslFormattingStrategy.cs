@@ -2,12 +2,12 @@ using System;
 using System.Collections;
 using System.Diagnostics;
 using System.Text;
-using DigitalRune.Windows.TextEditor.Actions;
-using DigitalRune.Windows.TextEditor.Document;
-using DigitalRune.Windows.TextEditor.Properties;
+using CompuMaster.Windows.DigitalRuneTextEditor.Actions;
+using CompuMaster.Windows.DigitalRuneTextEditor.Document;
+using CompuMaster.Windows.DigitalRuneTextEditor.Properties;
 
 
-namespace DigitalRune.Windows.TextEditor.Formatting
+namespace CompuMaster.Windows.DigitalRuneTextEditor.Formatting
 {
   /// <summary>
   /// Formatting strategy for HLSL.

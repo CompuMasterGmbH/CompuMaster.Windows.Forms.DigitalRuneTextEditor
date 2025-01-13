@@ -1,9 +1,9 @@
 ﻿using System;
 using System.Diagnostics;
-using DigitalRune.Windows.TextEditor.Document;
+using CompuMaster.Windows.DigitalRuneTextEditor.Document;
 
 
-namespace DigitalRune.Windows.TextEditor.Selection
+namespace CompuMaster.Windows.DigitalRuneTextEditor.Selection
 {
   /// <summary>
   /// Default implementation of an <see cref="ISelection"/> interface.

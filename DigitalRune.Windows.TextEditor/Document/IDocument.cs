@@ -1,17 +1,17 @@
 ﻿using System;
 using System.Collections.Generic;
-using DigitalRune.Windows.TextEditor;
-using DigitalRune.Windows.TextEditor.Undo;
-using DigitalRune.Windows.TextEditor.Bookmarks;
-using DigitalRune.Windows.TextEditor.Folding;
-using DigitalRune.Windows.TextEditor.Formatting;
-using DigitalRune.Windows.TextEditor.Highlighting;
-using DigitalRune.Windows.TextEditor.Markers;
-using DigitalRune.Windows.TextEditor.TextBuffer;
-using DigitalRune.Windows.TextEditor.Properties;
+using CompuMaster.Windows.DigitalRuneTextEditor;
+using CompuMaster.Windows.DigitalRuneTextEditor.Undo;
+using CompuMaster.Windows.DigitalRuneTextEditor.Bookmarks;
+using CompuMaster.Windows.DigitalRuneTextEditor.Folding;
+using CompuMaster.Windows.DigitalRuneTextEditor.Formatting;
+using CompuMaster.Windows.DigitalRuneTextEditor.Highlighting;
+using CompuMaster.Windows.DigitalRuneTextEditor.Markers;
+using CompuMaster.Windows.DigitalRuneTextEditor.TextBuffer;
+using CompuMaster.Windows.DigitalRuneTextEditor.Properties;
 
 
-namespace DigitalRune.Windows.TextEditor.Document
+namespace CompuMaster.Windows.DigitalRuneTextEditor.Document
 {
   /// <summary>
   /// Represents a text document that can be shown and edited in a <see cref="TextEditorControl"/>.
@@ -117,7 +117,7 @@ namespace DigitalRune.Windows.TextEditor.Document
     /// </summary>
     /// <typeparam name="T">A type of segment.</typeparam>
     /// <param name="list">The list.</param>
-    /// <param name="e">The <see cref="DigitalRune.Windows.TextEditor.Document.DocumentEventArgs"/> instance containing the event data.</param>
+    /// <param name="e">The <see cref="CompuMaster.Windows.DigitalRuneTextEditor.Document.DocumentEventArgs"/> instance containing the event data.</param>
     void UpdateSegmentListOnDocumentChange<T>(List<T> list, DocumentEventArgs e) where T : ISegment;
 
 

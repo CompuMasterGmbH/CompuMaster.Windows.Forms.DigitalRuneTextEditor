@@ -1,9 +1,9 @@
-using DigitalRune.Windows.TextEditor;
-using DigitalRune.Windows.TextEditor.Document;
-using DigitalRune.Windows.TextEditor.Insight;
+using CompuMaster.Windows.DigitalRuneTextEditor;
+using CompuMaster.Windows.DigitalRuneTextEditor.Document;
+using CompuMaster.Windows.DigitalRuneTextEditor.Insight;
 
 
-namespace DigitalRune.Windows.SampleEditor
+namespace CompuMaster.Windows.SampleEditor
 {
   class MethodInsightDataProvider : AbstractInsightDataProvider
   {

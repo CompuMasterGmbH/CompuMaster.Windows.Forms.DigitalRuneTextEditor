@@ -4,7 +4,7 @@ using System.Drawing;
 using System.Windows.Forms;
 
 
-namespace DigitalRune.Windows.TextEditor.Completion
+namespace CompuMaster.Windows.DigitalRuneTextEditor.Completion
 {
   /// <summary>
   /// The list view of a code completion window.

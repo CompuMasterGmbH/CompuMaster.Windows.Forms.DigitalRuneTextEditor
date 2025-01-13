@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace DigitalRune.Windows.SampleEditor {
+namespace CompuMaster.Windows.SampleEditor {
     using System;
     
     

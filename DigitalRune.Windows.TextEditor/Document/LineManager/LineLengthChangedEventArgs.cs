@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace DigitalRune.Windows.TextEditor.Document
+namespace CompuMaster.Windows.DigitalRuneTextEditor.Document
 {
   /// <summary>
   /// Event arguments for events raised when the length of lines changes.

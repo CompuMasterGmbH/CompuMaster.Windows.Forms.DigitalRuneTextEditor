@@ -1,10 +1,10 @@
 using System.Collections.Generic;
-using DigitalRune.Windows.TextEditor;
-using DigitalRune.Windows.TextEditor.Document;
-using DigitalRune.Windows.TextEditor.Folding;
+using CompuMaster.Windows.DigitalRuneTextEditor;
+using CompuMaster.Windows.DigitalRuneTextEditor.Document;
+using CompuMaster.Windows.DigitalRuneTextEditor.Folding;
 
 
-namespace DigitalRune.Windows.SampleEditor
+namespace CompuMaster.Windows.SampleEditor
 {
   class CodeFoldingStrategy : IFoldingStrategy
   {

@@ -2,7 +2,7 @@
 using System.Drawing;
 
 
-namespace DigitalRune.Windows.TextEditor
+namespace CompuMaster.Windows.DigitalRuneTextEditor
 {
   /// <summary>
   /// Contains brushes/pens for the text editor to speed up drawing. Re-Creation of brushes and pens

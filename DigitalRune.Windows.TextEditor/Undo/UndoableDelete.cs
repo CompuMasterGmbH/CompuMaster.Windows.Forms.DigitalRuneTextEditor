@@ -1,8 +1,8 @@
 ﻿using System;
 using System.Diagnostics;
-using DigitalRune.Windows.TextEditor.Document;
+using CompuMaster.Windows.DigitalRuneTextEditor.Document;
 
-namespace DigitalRune.Windows.TextEditor.Undo
+namespace CompuMaster.Windows.DigitalRuneTextEditor.Undo
 {
   /// <summary>
   /// Implements an undoable delete operation for the <see cref="IDocument"/>.

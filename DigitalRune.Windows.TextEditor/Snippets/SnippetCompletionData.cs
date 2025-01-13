@@ -1,7 +1,7 @@
 using System.Windows.Forms;
 
 
-namespace DigitalRune.Windows.TextEditor.Completion
+namespace CompuMaster.Windows.DigitalRuneTextEditor.Completion
 {
   /// <summary>
   /// Completion data for a <see cref="Snippet"/> (text template).

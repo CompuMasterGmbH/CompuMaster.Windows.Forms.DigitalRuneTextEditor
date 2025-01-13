@@ -3,7 +3,7 @@ using System.Drawing;
 using System.Drawing.Drawing2D;
 
 
-namespace DigitalRune.Windows.TextEditor.Bookmarks
+namespace CompuMaster.Windows.DigitalRuneTextEditor.Bookmarks
 {
   /// <summary>
   /// Renders graphics for bookmarks.
