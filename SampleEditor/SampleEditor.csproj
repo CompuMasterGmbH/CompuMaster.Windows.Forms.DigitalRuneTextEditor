@@ -10,7 +10,7 @@
     <EnableWindowsTargeting>true</EnableWindowsTargeting>
   </PropertyGroup>
   <ItemGroup>
-    <ProjectReference Include="..\DigitalRune.Windows.TextEditor\DigitalRune.Windows.TextEditor.csproj" />
+    <ProjectReference Include="..\DigitalRune.Windows.TextEditor\CompuMaster.Windows.Forms.DigitalRuneTextEditor.csproj" />
   </ItemGroup>
   <ItemGroup>
     <Compile Remove="Properties\Resources.Designer.cs" />

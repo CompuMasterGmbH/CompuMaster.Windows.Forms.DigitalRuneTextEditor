@@ -21,9 +21,10 @@ env:
   # Name of project configuration for build as well as name of the bin output subdirectory (both must match for "dotnet pack" to find compiled files!)
   BUILD_CONFIGURATION: Release
   # Name of build project which creates required output for packaging/deployment
-  BUILD_PROJECT: DigitalRune.Windows.TextEditor/DigitalRune.Windows.TextEditor.csproj
+  BUILD_PROJECT: DigitalRune.Windows.TextEditor/CompuMaster.Windows.Forms.DigitalRuneTextEditor.csproj
   # Name of directory (e.g. "bin") containing the subdirectory (e.g. "CI_CD") with all output files (*.dll)
   BUILD_OUTPUT_BASEDIR: DigitalRune.Windows.TextEditor/bin
+  BUILD_OUTPUT_SUBDIR: Release
 
 
 jobs:
@@ -47,9 +48,8 @@ jobs:
             - name: Build
               run: dotnet build --configuration=${{env.BUILD_CONFIGURATION}} --no-restore
 
-            - name: Pack binaries
-              run: |
-                (cd ${{env.BUILD_OUTPUT_BASEDIR}}/${{env.BUILD_CONFIGURATION}} && zip $OLDPWD/bin.zip -r .)
+            - name: Zip binaries
+              run: Compress-Archive -DestinationPath bin.zip ${{env.BUILD_OUTPUT_BASEDIR}}/${{env.BUILD_OUTPUT_SUBDIR}}
 
             - name: Publish binaries
               uses: softprops/action-gh-release@v1
