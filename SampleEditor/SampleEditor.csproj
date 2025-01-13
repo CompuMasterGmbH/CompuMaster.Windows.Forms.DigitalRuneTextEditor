@@ -7,7 +7,6 @@
     <ImportWindowsDesktopTargets>true</ImportWindowsDesktopTargets>
     <Copyright>Copyright© 2007-2011 Garstenauer Information Technology OG</Copyright>
     <GenerateResourceUsePreserializedResources>True</GenerateResourceUsePreserializedResources>
-    <EnableWindowsTargeting>true</EnableWindowsTargeting>
   </PropertyGroup>
   <ItemGroup>
     <ProjectReference Include="..\DigitalRune.Windows.TextEditor\DigitalRune.Windows.TextEditor.csproj" />

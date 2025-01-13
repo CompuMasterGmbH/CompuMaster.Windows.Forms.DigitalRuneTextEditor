@@ -1,7 +1,7 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
   <PropertyGroup>
     <TargetFrameworks>net48;net8.0-windows</TargetFrameworks>
-    <Version>2025.01.13.0</Version>
+    <Version>2025.01.13.1</Version>
     <OutputTarget>Library</OutputTarget>
     <OutputType>Library</OutputType>
     <GenerateSerializationAssemblies>Auto</GenerateSerializationAssemblies>
@@ -17,11 +17,11 @@
     <Copyright>Licensed under the GNU Lesser General Public License (LGPL-2.1).</Copyright>
     <PackageProjectUrl>https://github.com/CompuMasterGmbH/CompuMaster.Windows.Forms.DigitalRuneTextEditor</PackageProjectUrl>
     <PackageTags>CompuMaster;Windows;Forms;TextEditor;DigitalRune;TextEditor</PackageTags>
+    <PackageLicenseExpression>LGPL-2.1-only</PackageLicenseExpression>
     <GenerateDocumentationFile>True</GenerateDocumentationFile>
     <IncludeSymbols>True</IncludeSymbols>
     <SymbolPackageFormat>snupkg</SymbolPackageFormat>
     <GenerateResourceUsePreserializedResources>True</GenerateResourceUsePreserializedResources>
-    <EnableWindowsTargeting>true</EnableWindowsTargeting>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)' == 'Debug' ">
     <DefineConstants>DEBUG;DATACONSISTENCYTEST</DefineConstants>
