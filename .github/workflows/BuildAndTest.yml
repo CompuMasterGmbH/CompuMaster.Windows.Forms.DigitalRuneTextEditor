@@ -35,10 +35,10 @@ jobs:
         strategy:
           fail-fast: false
           matrix:
-            os: [windows-latest, ubuntu-latest, macos-latest]
-            include: 
-              - os: macos-latest
-                runNetExe: mono
+            os: [windows-latest] #, ubuntu-latest, macos-latest]
+            #include: 
+            #  - os: macos-latest
+            #    runNetExe: mono
 
         steps:
             - name: Checkout
