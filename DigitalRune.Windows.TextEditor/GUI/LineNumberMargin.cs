@@ -52,7 +52,7 @@ namespace CompuMaster.Windows.Forms.DigitalRuneTextEditor
 
     static LineNumberMargin()
     {
-      Stream cursorStream = Assembly.GetCallingAssembly().GetManifestResourceStream("DigitalRune.Windows.TextEditor.Resources.RightArrow.cur");
+      Stream cursorStream = Assembly.GetCallingAssembly().GetManifestResourceStream("CompuMaster.Windows.Forms.DigitalRuneTextEditor.Resources.RightArrow.cur");
       if (cursorStream == null) 
         throw new Exception("Could not find cursor resource.");
       _rightLeftCursor = new Cursor(cursorStream);

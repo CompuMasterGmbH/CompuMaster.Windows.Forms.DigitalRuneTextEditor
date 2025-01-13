@@ -16,7 +16,7 @@ namespace CompuMaster.Windows.Forms.DigitalRuneTextEditor
   /// <summary>
   /// The text editor control.
   /// </summary>
-  [ToolboxBitmap("DigitalRune.Windows.TextEditor.Resources.TextEditorControl.bmp")]
+  [ToolboxBitmap("CompuMaster.Windows.Forms.DigitalRuneTextEditor.Resources.TextEditorControl.bmp")]
   [ToolboxItem(true)]
   public partial class TextEditorControl
   {

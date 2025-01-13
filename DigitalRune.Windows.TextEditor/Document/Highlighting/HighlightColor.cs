@@ -126,7 +126,7 @@ namespace CompuMaster.Windows.Forms.DigitalRuneTextEditor.Highlighting
     /// <param name="el">The XML element that describes the highlighting color.</param>
     public HighlightColor(XmlElement el)
     {
-      Debug.Assert(el != null, "DigitalRune.Windows.TextEditor.Document.SyntaxColor(XmlElement el) : el == null");
+      Debug.Assert(el != null, "CompuMaster.Windows.Forms.DigitalRuneTextEditor.Document.SyntaxColor(XmlElement el) : el == null");
       if (el.Attributes["bold"] != null)
         _bold = Boolean.Parse(el.Attributes["bold"].InnerText);
 
@@ -186,7 +186,7 @@ namespace CompuMaster.Windows.Forms.DigitalRuneTextEditor.Highlighting
     /// </remarks>
     public HighlightColor(XmlElement el, HighlightColor defaultColor)
     {
-      Debug.Assert(el != null, "DigitalRune.Windows.TextEditor.Document.SyntaxColor(XmlElement el) : el == null");
+      Debug.Assert(el != null, "CompuMaster.Windows.Forms.DigitalRuneTextEditor.Document.SyntaxColor(XmlElement el) : el == null");
       if (el.Attributes["bold"] != null)
         _bold = Boolean.Parse(el.Attributes["bold"].InnerText);
       else

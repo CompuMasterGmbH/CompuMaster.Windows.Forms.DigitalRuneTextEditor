@@ -44,7 +44,7 @@ namespace CompuMaster.Windows.Forms.DigitalRuneTextEditor.Highlighting
       {
         List<ValidationEventArgs> errors = null;
         XmlReaderSettings settings = new XmlReaderSettings();
-        Stream shemaStream = typeof(HighlightingDefinitionParser).Assembly.GetManifestResourceStream("DigitalRune.Windows.TextEditor.Resources.Mode.xsd");
+        Stream shemaStream = typeof(HighlightingDefinitionParser).Assembly.GetManifestResourceStream("CompuMaster.Windows.Forms.DigitalRuneTextEditor.Resources.Mode.xsd");
         settings.Schemas.Add("", new XmlTextReader(shemaStream));
         settings.Schemas.ValidationEventHandler += delegate(object sender, ValidationEventArgs args)
         {

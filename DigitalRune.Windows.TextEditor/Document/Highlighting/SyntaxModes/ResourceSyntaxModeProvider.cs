@@ -31,7 +31,7 @@ namespace CompuMaster.Windows.Forms.DigitalRuneTextEditor.Highlighting
     public ResourceSyntaxModeProvider()
     {
       Assembly assembly = typeof(SyntaxMode).Assembly;
-      Stream syntaxModeStream = assembly.GetManifestResourceStream("DigitalRune.Windows.TextEditor.Resources.SyntaxModes.xml");
+      Stream syntaxModeStream = assembly.GetManifestResourceStream("CompuMaster.Windows.Forms.DigitalRuneTextEditor.Resources.SyntaxModes.xml");
       _syntaxModes = (syntaxModeStream != null) ? SyntaxMode.GetSyntaxModes(syntaxModeStream) : new List<SyntaxMode>();
     }
 
@@ -45,7 +45,7 @@ namespace CompuMaster.Windows.Forms.DigitalRuneTextEditor.Highlighting
     {
       Assembly assembly = typeof(SyntaxMode).Assembly;
       // ReSharper disable AssignNullToNotNullAttribute
-      return new XmlTextReader(assembly.GetManifestResourceStream("DigitalRune.Windows.TextEditor.Resources." + syntaxMode.FileName));
+      return new XmlTextReader(assembly.GetManifestResourceStream("CompuMaster.Windows.Forms.DigitalRuneTextEditor.Resources." + syntaxMode.FileName));
       // ReSharper restore AssignNullToNotNullAttribute
     }
 
