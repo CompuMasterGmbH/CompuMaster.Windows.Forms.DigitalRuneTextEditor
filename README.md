@@ -1,11 +1,15 @@
-DigitalRune .NET TextEditor Control
-===================================
+# CompuMaster.Windows.Forms.DigitalRuneTextEditor edition of DigitalRune .NET TextEditor Control
+
+## .NET support
+
+* This project supports .NET Framework + .NET 8.x or higher
+
+## Readme pre-ample from wopss
 
 This code is edited by me.
 Original code is at http://www.digitalrune.com/Downloads.aspx.
 
-Readme as provided by DigitalRune
-=================================
+## Readme as provided by DigitalRune
                     
 > The source code is based on the TextEditor control of SharpDevelop IDE which
 >can be downloaded from http://www.icsharpcode.net/OpenSource/SD/.
